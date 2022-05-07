@@ -13,4 +13,4 @@ The database used is SQLite.
 
 -------
 
-Author: Juriel
+Author: Juriel Botoy
